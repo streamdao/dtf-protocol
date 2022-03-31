@@ -1,7 +1,7 @@
 {
-  "name": "streamdao-dex",
+  "name": "@streamdao/fund",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "homepage": "https://dex.streamdao.org",
   "scripts": {
     "predeploy": "npm run build",
@@ -89,5 +89,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Live demo available at [github-pages](https://streamdao.org.github.io/dtf-protocol/)",
+  "main": "config-overrides.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streamdao/dtf-protocol.git"
+  },
+  "keywords": [
+    "dex",
+    "dtf",
+    "fund"
+  ],
+  "author": "StreamDAO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/streamdao/dtf-protocol/issues"
   }
 }

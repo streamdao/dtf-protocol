@@ -1,6 +1,6 @@
 {
   "name": "@streamdao/fund",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Non-Custodial DEX",
   "main": "index.js",
   "scripts": {
