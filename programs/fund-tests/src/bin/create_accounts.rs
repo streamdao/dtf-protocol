@@ -11,7 +11,7 @@ use solana_sdk::{
 };
 
 fn main() -> Result<()> {
-    let fund_program_id = Pubkey::from_str("HWEaSAnjKNADwA2ZopatwCM5BqrnMCPQBKAphf1s6XNW")?;
+    let fund_program_id = Pubkey::from_str("8k1JM5Cd6Hz7G6Jsq1FSzgRYPyS4RFj9k11Uvt5bgWRP")?;
 
     let payer_account =
         read_keypair_file("../../solana/alice.json").map_err(|err| anyhow!("Read keypair error: {}", err))?;

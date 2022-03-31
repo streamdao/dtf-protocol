@@ -21,7 +21,7 @@ export const TOKEN_PROGRAM_ID = new PublicKey(
 
 export const DTF_PROGRAM_ID = new PublicKey(
   process.env.REACT_APP_DTF_PROGRAM_ID ||
-    'HWEaSAnjKNADwA2ZopatwCM5BqrnMCPQBKAphf1s6XNW',
+    '8k1JM5Cd6Hz7G6Jsq1FSzgRYPyS4RFj9k11Uvt5bgWRP',
 );
 
 export const SWAP_PROGRAM_ID = new PublicKey(
