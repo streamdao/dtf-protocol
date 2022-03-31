@@ -1,4 +1,4 @@
-<img width="1645" alt="image" src="https://user-images.githubusercontent.com/6249597/109562794-e86a8700-7aef-11eb-8b19-3aeeed2ebeb1.png">
+<img width="1645" alt="image" src="https://github.com/streamdao/dtf-protocol/blob/main/web/src/assets/images/non-custody-dex-traded-funds.png">
 
 # 🏗 StreamDAO - Non-custodial DEX Traded Funds (DTFs)
 
