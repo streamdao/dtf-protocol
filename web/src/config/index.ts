@@ -26,7 +26,7 @@ export const DTF_PROGRAM_ID = new PublicKey(
 
 export const SWAP_PROGRAM_ID = new PublicKey(
   process.env.REACT_APP_SWAP_PROGRAM_ID ||
-    'SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8',
+    'FuSZkVMihAtrZYfD2UUqnRDcCmbW6XqvrPWWAWxc8LM7',
 );
 
 export const HOST_FEE_VAULT = new PublicKey(
