@@ -2,7 +2,7 @@
   "name": "@streamdao/fund",
   "version": "0.0.2",
   "private": false,
-  "homepage": "https://dex.streamdao.org",
+  "homepage": "https://dex.streamprotocol.org",
   "scripts": {
     "predeploy": "npm run build",
     "start": "react-app-rewired start",
